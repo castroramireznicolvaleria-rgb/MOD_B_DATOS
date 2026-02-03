@@ -1,0 +1,4 @@
+CREATE TABLE formaPago (
+    id_forma_pago INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre VARCHAR(20) NOT NULL
+);

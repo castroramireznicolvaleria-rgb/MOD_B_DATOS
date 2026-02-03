@@ -1,0 +1,4 @@
+CREATE TABLE marcas (
+    id_marca INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre VARCHAR(30) NOT NULL
+);

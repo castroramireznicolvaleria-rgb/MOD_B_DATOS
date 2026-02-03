@@ -1,0 +1,4 @@
+CREATE TABLE distritos (
+    id_distrito INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre VARCHAR(30) NOT NULL
+);
